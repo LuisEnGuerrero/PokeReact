@@ -1,4 +1,5 @@
 import './assets/css/App.css';
+import React from 'react';
 
 //Importar componentes creados:
 import Footer from './components/Footer';
